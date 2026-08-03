@@ -2,5 +2,5 @@
 # A página com mais aura essência!
 
 <p>
-<img src="esencia.png" width= "300px">
+<img src="accents/imagens/esencia.png" width= "300px">
 </p>
